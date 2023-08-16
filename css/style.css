@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: blanchedalmond;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgb(109, 143, 253);
+}
+#container{
+    text-align: center;
+    background-color: rgb(12, 155, 150);
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.input-div{
+    display: inline-block;
+}
+
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 25px;
+}
